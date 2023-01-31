@@ -1,2 +1,1 @@
-#Aninist App
-An App for Anilist Site
+Student Attendance using Face Recognition For LMS 
